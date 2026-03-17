@@ -74,29 +74,5 @@ body{
     font-size: 14px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
-   
-}
-#signup-link{
-     font-size: 15px;
-    font-weight: 400;
-    font-family: "Poppins", sans-serif;
-}
-#forgot-passwordLink{
-     font-size: 15px;
-    font-weight: 400;
-    font-family: "Poppins", sans-serif;
-}
-#links{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: start;  
-}
-a{
-    color: rgb(240, 236, 236);
-    text-decoration: none;
-  
-}
-a:hover{
-    color: rgb(198,93,30);
+    hover:cursor;
 }
